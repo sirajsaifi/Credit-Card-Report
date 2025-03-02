@@ -5,7 +5,7 @@
 ![](https://github.com/sirajsaifi/Credit-Card-Report/blob/main/Sheet2.png)
 
 ## **Project Objective**
-To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+Developed a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 ## **DAX Queries**
 
